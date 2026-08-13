@@ -1,0 +1,8 @@
+# Library
+
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
